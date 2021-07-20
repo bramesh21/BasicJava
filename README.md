@@ -1,1 +1,2 @@
-# BasicJava
+# BasicJava programs
+# Learn Core Java
